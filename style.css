@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+#heading{
+    font-size: 30px;
+    color: bisque;
+}
+
+.btn{
+    font-size: 20px;
+    color: bisque;
+    font-weight: bold;
+    background-color:lightcoral;
+    border: radius 10px;;
+    border-color:indigo ;
+    border-width: 5px ;
+}
